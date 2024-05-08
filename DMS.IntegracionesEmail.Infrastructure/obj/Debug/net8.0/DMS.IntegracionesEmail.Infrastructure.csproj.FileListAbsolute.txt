@@ -1,0 +1,15 @@
+C:\Users\usuga\source\repos\DMS.IntegracionesEmail\DMS.IntegracionesEmail.Infrastructure\obj\Debug\net8.0\DMS.IntegracionesEmail.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\usuga\source\repos\DMS.IntegracionesEmail\DMS.IntegracionesEmail.Infrastructure\obj\Debug\net8.0\DMS.IntegracionesEmail.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuga\source\repos\DMS.IntegracionesEmail\DMS.IntegracionesEmail.Infrastructure\obj\Debug\net8.0\DMS.IntegracionesEmail.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\usuga\source\repos\DMS.IntegracionesEmail\DMS.IntegracionesEmail.Infrastructure\obj\Debug\net8.0\DMS.IntegracionesEmail.Infrastructure.AssemblyInfo.cs
+C:\Users\usuga\source\repos\DMS.IntegracionesEmail\DMS.IntegracionesEmail.Infrastructure\obj\Debug\net8.0\DMS.IntegracionesEmail.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\usuga\source\repos\DMS.IntegracionesEmail\DMS.IntegracionesEmail.Infrastructure\bin\Debug\net8.0\DMS.IntegracionesEmail.Infrastructure.deps.json
+C:\Users\usuga\source\repos\DMS.IntegracionesEmail\DMS.IntegracionesEmail.Infrastructure\bin\Debug\net8.0\DMS.IntegracionesEmail.Infrastructure.dll
+C:\Users\usuga\source\repos\DMS.IntegracionesEmail\DMS.IntegracionesEmail.Infrastructure\bin\Debug\net8.0\DMS.IntegracionesEmail.Infrastructure.pdb
+C:\Users\usuga\source\repos\DMS.IntegracionesEmail\DMS.IntegracionesEmail.Infrastructure\bin\Debug\net8.0\DMS.IntegracionesEmail.Core.dll
+C:\Users\usuga\source\repos\DMS.IntegracionesEmail\DMS.IntegracionesEmail.Infrastructure\bin\Debug\net8.0\DMS.IntegracionesEmail.Core.pdb
+C:\Users\usuga\source\repos\DMS.IntegracionesEmail\DMS.IntegracionesEmail.Infrastructure\obj\Debug\net8.0\DMS.IntegracionesEmail.Infrastructure.csproj.CopyComplete
+C:\Users\usuga\source\repos\DMS.IntegracionesEmail\DMS.IntegracionesEmail.Infrastructure\obj\Debug\net8.0\DMS.IntegracionesEmail.Infrastructure.dll
+C:\Users\usuga\source\repos\DMS.IntegracionesEmail\DMS.IntegracionesEmail.Infrastructure\obj\Debug\net8.0\refint\DMS.IntegracionesEmail.Infrastructure.dll
+C:\Users\usuga\source\repos\DMS.IntegracionesEmail\DMS.IntegracionesEmail.Infrastructure\obj\Debug\net8.0\DMS.IntegracionesEmail.Infrastructure.pdb
+C:\Users\usuga\source\repos\DMS.IntegracionesEmail\DMS.IntegracionesEmail.Infrastructure\obj\Debug\net8.0\ref\DMS.IntegracionesEmail.Infrastructure.dll

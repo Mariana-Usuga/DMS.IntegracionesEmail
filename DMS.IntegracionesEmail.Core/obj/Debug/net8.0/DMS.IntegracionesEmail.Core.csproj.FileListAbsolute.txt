@@ -1,0 +1,11 @@
+C:\Users\usuga\source\repos\DMS.IntegracionesEmail\DMS.IntegracionesEmail.Core\bin\Debug\net8.0\DMS.IntegracionesEmail.Core.deps.json
+C:\Users\usuga\source\repos\DMS.IntegracionesEmail\DMS.IntegracionesEmail.Core\bin\Debug\net8.0\DMS.IntegracionesEmail.Core.dll
+C:\Users\usuga\source\repos\DMS.IntegracionesEmail\DMS.IntegracionesEmail.Core\bin\Debug\net8.0\DMS.IntegracionesEmail.Core.pdb
+C:\Users\usuga\source\repos\DMS.IntegracionesEmail\DMS.IntegracionesEmail.Core\obj\Debug\net8.0\DMS.IntegracionesEmail.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuga\source\repos\DMS.IntegracionesEmail\DMS.IntegracionesEmail.Core\obj\Debug\net8.0\DMS.IntegracionesEmail.Core.AssemblyInfoInputs.cache
+C:\Users\usuga\source\repos\DMS.IntegracionesEmail\DMS.IntegracionesEmail.Core\obj\Debug\net8.0\DMS.IntegracionesEmail.Core.AssemblyInfo.cs
+C:\Users\usuga\source\repos\DMS.IntegracionesEmail\DMS.IntegracionesEmail.Core\obj\Debug\net8.0\DMS.IntegracionesEmail.Core.csproj.CoreCompileInputs.cache
+C:\Users\usuga\source\repos\DMS.IntegracionesEmail\DMS.IntegracionesEmail.Core\obj\Debug\net8.0\DMS.IntegracionesEmail.Core.dll
+C:\Users\usuga\source\repos\DMS.IntegracionesEmail\DMS.IntegracionesEmail.Core\obj\Debug\net8.0\refint\DMS.IntegracionesEmail.Core.dll
+C:\Users\usuga\source\repos\DMS.IntegracionesEmail\DMS.IntegracionesEmail.Core\obj\Debug\net8.0\DMS.IntegracionesEmail.Core.pdb
+C:\Users\usuga\source\repos\DMS.IntegracionesEmail\DMS.IntegracionesEmail.Core\obj\Debug\net8.0\ref\DMS.IntegracionesEmail.Core.dll
